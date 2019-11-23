@@ -3,8 +3,15 @@ The project provide a arduino library for HOE-LED056-6, I bought it from China.
 the library is very light, it just provide clear() and setNum() function, it support
 well for deficient device like ATTINY85 or similar Micro chip.
 
-The library is modify from Vasyl Yudin's library(https://github.com/BlockThor/TM1628).
+![image](https://github.com/eyesblue/HT1628_HOE-LED056-6/blob/master/images/1.jpg)
+![image](https://github.com/eyesblue/HT1628_HOE-LED056-6/blob/master/images/2.jpg)
+![image](https://github.com/eyesblue/HT1628_HOE-LED056-6/blob/master/images/3.jpg)
+![image](https://github.com/eyesblue/HT1628_HOE-LED056-6/blob/master/images/4.jpg)
+![image](https://github.com/eyesblue/HT1628_HOE-LED056-6/blob/master/images/5.jpg)
+![image](https://github.com/eyesblue/HT1628_HOE-LED056-6/blob/master/images/6.jpg)
 
+
+The library is modify from Vasyl Yudin's library(https://github.com/BlockThor/TM1628).
 
 USAGE NOTES
 ---
