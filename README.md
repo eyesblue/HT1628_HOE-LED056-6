@@ -8,6 +8,7 @@ The library is modify from Vasyl Yudin's library(https://github.com/BlockThor/TM
 
 
 ===================== Example code =====================
+
 #include "TM1628.h"
 
 TM1628 ledDisp(10, 11, 12); // dio, clk, stb
