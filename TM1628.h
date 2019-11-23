@@ -18,13 +18,13 @@ class TM1628
 
 	void setNum(uint8_t index, uint8_t num, bool hasDot);
 
-  void sendData(byte addr, byte data);
-  void sendCommand(byte data);
-  void send(byte data);
+  	void sendData(byte addr, byte data);
+  	void sendCommand(byte data);
+  	void send(byte data);
     
-  byte _dio_pin;
-  byte _clk_pin;
-  byte _stb_pin;
+  	byte _dio_pin;
+  	byte _clk_pin;
+  	byte _stb_pin;
 };
 
 #endif
