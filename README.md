@@ -5,7 +5,10 @@ well for deficient device like ATTINY85 or similar Micro chip.
 
 The library is modify from Vasyl Yudin's library(https://github.com/BlockThor/TM1628).
 
-
+--
+--
+---
+--
 
 ===================== Example code =====================
 
